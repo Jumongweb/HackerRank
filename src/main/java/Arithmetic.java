@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Arithmetic {
+public class Arithmetic {
+    public static int add(int a, int b) {
+        return a + b;
+    }
 }
